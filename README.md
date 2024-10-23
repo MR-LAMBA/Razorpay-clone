@@ -1,1 +1,1 @@
-# Razorpay-clone
+The Razorpay Clone is a comprehensive payment gateway solution designed to mimic the core functionalities of the original Razorpay platform. This project aims to provide businesses with an easy and secure way to process online payments, manage transactions, and enhance their financial operations.
